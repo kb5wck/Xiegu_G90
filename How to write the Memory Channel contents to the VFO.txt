@@ -1,0 +1,10 @@
+
+This is not explained in the early G90 Manuals
+
+How to write the contents of a Memory Channel (MC) back to the VFO so you can tune or adjust the frequency and other parameters.
+
+1. Press the VM key below the display and choose a stored frequency.
+2. Short press the FUNC key, the F LED will illuminate.
+3. Short press the A/B key (writes contents of MC to VFO - unfortunately both VFOs)
+4. Short press the FUNC key to it off, the F LED will turn off.
+5. Short press the VM key (back to VFO mode) - now with MC contents displayed and tunable.

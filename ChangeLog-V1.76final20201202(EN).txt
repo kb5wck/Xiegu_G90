@@ -1,0 +1,12 @@
+File:G90_MainUnit_FW_V1.76final20201202.xgf
+SHA-256:AB34DA7B6046B1CA4079AAB6C16FFA6967F987C79E81EE48BB76AA6C9C02F5C6
+
+Note:Compatible with head fw version >=1.75
+
+1.Set ATU tuning power to ~5W
+2.Change AGC time constant:
+  Slow mode:~1.2s
+  Fast mode:~0.1s
+3.Fixed the issue of long AGC recover time(with slow mode) 
+  when switching back from tx status
+4.Range of SWR extended to 1~10 when combined with GSOC
